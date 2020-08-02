@@ -1,0 +1,15 @@
+ddddddddddddddd
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.js b/index.js
+new file mode 100644
+index 0000000..519e903
+--- /dev/null
++++ b/index.js
+@@ -0,0 +1,2 @@
++alert("我是外部js文件");
++sssssssssssssssssssssssssssss
+\ No newline at end of file
